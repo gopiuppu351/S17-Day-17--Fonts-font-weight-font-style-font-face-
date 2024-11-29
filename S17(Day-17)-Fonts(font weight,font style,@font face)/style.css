@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+#body{
+    background-color:lavenderblush;
+}
+
+
+#heading1{
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+   
+}
+
+
+img{
+    width: 350px;
+    height: 300px;
+    padding: 10px;
+}
+
+.paragraph{
+    display: inline-block;
+    width: 850px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+
+#crimsonText{
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+#kalamLight {
+    font-family: "Kalam", cursive;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+
+
+@font-face{
+    font-family:abc;
+    src: url("./fonts/Gurajada\ Italic.otf");
+}
+
+
+#gurajadaLtalic{
+    font-family:abc ;
+} 
+
+
